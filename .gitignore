@@ -1,0 +1,4 @@
+nimcache
+.directory
+.kate*
+examples/3dxware_logger_example
