@@ -1,12 +1,12 @@
-# io-3dxware
+# threedxware
 
 Nim wrapper for 3Dconnexion's 3DxWare SDK
-![io-leap Logo](logo.png)
+![io-leap Logo](docs/logo.png)
 
 
 ## About
 
-io-3dxware contains bindings to **3dxWare**, the official 3Dconnexion device
+This package contains bindings to **3dxWare**, the official 3Dconnexion device
 driver, for the [Nim](http://nim-lang.org) programming language. 3Dconnexion
 provides sophisticated 3D input devices.
 
@@ -35,7 +35,7 @@ TODO
 
 ## Dependencies
 
-io-3dxware does not have any dependencies to other Nim packages at this time.
+This package does not have any dependencies to other Nim packages at this time.
 
 
 ## Usage
@@ -45,8 +45,8 @@ TODO
 
 ## Support
 
-Please [file an issue](https://github.com/nimious/io-3dxware/issues), submit a
-[pull request](https://github.com/nimious/io-3dxware/pulls?q=is%3Aopen+is%3Apr)
+Please [file an issue](https://github.com/nimious/threedxware/issues), submit a
+[pull request](https://github.com/nimious/threedxware/pulls?q=is%3Aopen+is%3Apr)
 or email us at info@nimio.us if this package is out of date or contains bugs.
 For issues related to input devices or the device driver software visit the
 3Dconnexion web sites below.
